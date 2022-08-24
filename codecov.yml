@@ -1,3 +1,5 @@
+ignore:
+  - "api/app.py"  # ignore folders and all its contents
 coverage:
   status:
     project:
