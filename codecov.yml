@@ -1,0 +1,8 @@
+ignore:
+  - "api/app.py"  # ignore folders and all its contents
+coverage:
+  status:
+    project:
+      default:
+        target: 100%
+        threshold: 1%
